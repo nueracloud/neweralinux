@@ -13,6 +13,6 @@ Yes you have your own Operating System and Cloud Based Internet Server supplied 
 
 Hows that super Solid State Drive Operating System ( SSDOS )
 
-Of course it also installs on your device to be your OS instead of Windows or another Linux distro either AS WELL (dual operating system option at `restart my device’  or `Power Off’ on your Existing Device or New Laptop or INSTEAD of your current OS.
+Of course it also installs on your device to be your OS instead of Windows or another Linux distro either AS WELL (dual operating system option at restart my device  or Power Off on your Existing Device or New Laptop or INSTEAD of your current OS.
 
 More details and full specifications will be available at the main website soon.
