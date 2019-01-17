@@ -1,19 +1,20 @@
 # neweralinux
-Newera Linux is a Newera Cloud Developed Arch Based Linux Operating System and Internet Server for most devices and pc's
-Newera Linux ia an Arch based Linux Distribution to be released in 2018.
-Newera Linux is not your average Linux Distribution though ( Distro ).
+Fast, `state of the art' always up to date desktop system with beautiful graphics and full multi-media control.
 
-It is an operating system that uses the best and latest Desktop Front End to give you beautiful graphics and full multimedia control with mainstream Linux  components.
+Newera Linux is also a self contained internet server which can create, prepare, deploy, ssl and host your Wordpress Website in a few clicks.
 
-It is also a self contained LIVE SERVER which can create, prepare, deploy, ssl and host your Wordpress Website in a few clicks.
+Newera Linux uses Ubuntu 18.04 as it's core and is fully updated and compatible with all current Ubuntu software.
 
-Amazing `Runs of a Notepad, Mobile Phone or PC’ Self Lot operating system.
+Operating System and Cloud Based Internet Server supplied on a USB Stick.
 
-Yes you have your own Operating System and Cloud Based Internet Server supplied on a USB Stick.
+Plug it into your notebook along with a 27" monitor and wireless keyboard/mouse combo and your in business with the latest cloud based internet system.
 
-Hows that super Solid State Drive Operating System ( SSDOS )
+It can also be installed on your device instead of Windows as either a dual boot
 
-Of course it also installs on your device to be your OS instead of Windows or another Linux distro either AS WELL (dual operating system option at restart my device  or Power Off on your Existing Device or New Laptop or INSTEAD of your current OS.
+(windows or newera available) 
+
+or as your complete desktop powerhouse.
 
 More details and full specifications will be available at the main website soon.
+
 https://neweralinux.com
